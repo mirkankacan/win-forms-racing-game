@@ -1,0 +1,17 @@
+C:\Users\kacan\source\repos\ArabaOyunu\bin\Debug\net6.0-windows\ArabaOyunu.exe
+C:\Users\kacan\source\repos\ArabaOyunu\bin\Debug\net6.0-windows\ArabaOyunu.deps.json
+C:\Users\kacan\source\repos\ArabaOyunu\bin\Debug\net6.0-windows\ArabaOyunu.runtimeconfig.json
+C:\Users\kacan\source\repos\ArabaOyunu\bin\Debug\net6.0-windows\ArabaOyunu.dll
+C:\Users\kacan\source\repos\ArabaOyunu\bin\Debug\net6.0-windows\ArabaOyunu.pdb
+C:\Users\kacan\source\repos\ArabaOyunu\obj\Debug\net6.0-windows\ArabaOyunu.Form1.resources
+C:\Users\kacan\source\repos\ArabaOyunu\obj\Debug\net6.0-windows\ArabaOyunu.csproj.GenerateResource.cache
+C:\Users\kacan\source\repos\ArabaOyunu\obj\Debug\net6.0-windows\ArabaOyunu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kacan\source\repos\ArabaOyunu\obj\Debug\net6.0-windows\ArabaOyunu.AssemblyInfoInputs.cache
+C:\Users\kacan\source\repos\ArabaOyunu\obj\Debug\net6.0-windows\ArabaOyunu.AssemblyInfo.cs
+C:\Users\kacan\source\repos\ArabaOyunu\obj\Debug\net6.0-windows\ArabaOyunu.csproj.CoreCompileInputs.cache
+C:\Users\kacan\source\repos\ArabaOyunu\obj\Debug\net6.0-windows\ArabaOyunu.dll
+C:\Users\kacan\source\repos\ArabaOyunu\obj\Debug\net6.0-windows\refint\ArabaOyunu.dll
+C:\Users\kacan\source\repos\ArabaOyunu\obj\Debug\net6.0-windows\ArabaOyunu.pdb
+C:\Users\kacan\source\repos\ArabaOyunu\obj\Debug\net6.0-windows\ArabaOyunu.genruntimeconfig.cache
+C:\Users\kacan\source\repos\ArabaOyunu\obj\Debug\net6.0-windows\ref\ArabaOyunu.dll
+C:\Users\kacan\source\repos\ArabaOyunu\obj\Debug\net6.0-windows\ArabaOyunu.Properties.Resources.resources
